@@ -1,6 +1,4 @@
-import React, { useEffect, useState } from "react";
 import { Link, Outlet } from "react-router-dom";
-import { localBmis } from "./BmiForm";
 
 const Header = () => {
   return (
